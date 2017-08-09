@@ -1,0 +1,17 @@
+{
+    "name" : "Swift Colors",
+    "identifier" : "org.khmelevsky.SwiftColors",
+    "version" : "1.0.0",
+    "description" : "Export colors to swift.",
+    "authorEmail" : "info@khmelevsky.org",
+    "author" : "Alexander Khmelevsky",
+    "commands" : [
+    {
+      "script" : "main.js",
+      "handler" : "save",
+      "shortcut" : "",
+      "name" : "Export",
+      "identifier" : "export-swift-color"
+    }
+  ]
+}
